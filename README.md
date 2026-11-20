@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**kmnunley/kmnunley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Kevin Nunley
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Problem Solver. Amateur Problem Creator.
+
+*I am both smarter and dumber than you think I am.*<br>**Do not estimate me.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kmnunley)
+![Profile Views](https://komarev.com/ghpvc/?username=kmnunley&style=flat-square&color=555555)
+
+---
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,docker,linux,git,github" alt="Tech Stack" />
+
+<br>
+
+**Full-stack development** | **Automation** | **APIs** | **DevOps** | **Machine Learning**
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="130">](https://buymeacoffee.com/kmnunley)
+
+</div>
